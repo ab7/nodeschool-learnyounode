@@ -1,0 +1,9 @@
+{
+  "name": "ex8",
+  "description": "Solution for HTTP COLLECT.",
+  "author": "Alex Baker <hello@alexbaker.io>",
+  "dependencies": {
+    "bl": "^1.1.2"
+  },
+  "license": "MIT"
+}
