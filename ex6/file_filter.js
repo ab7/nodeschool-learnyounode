@@ -42,3 +42,5 @@ module.exports = new Filter();
 // * I really wanted to export an anyonymous object like in the style of `path`
 //   and `fs` so I willingly failed the 'single function' export requirement.
 //   Source: https://darrenderidder.github.io/talks/ModulePatterns/#/8
+// * Need to do more research about callbacks and error handling. This  article
+//   claims try/catch doesn't work: https://www.joyent.com/developers/node/design/errors
