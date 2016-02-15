@@ -11,12 +11,12 @@ http.get(process.argv[2],  function (response) {
 
 
 // ~ Official Solution ~
-// var http = require('http')  
-//        
-// http.get(process.argv[2], function (response) {  
-//   response.setEncoding('utf8')  
-//   response.on('data', console.log)  
-//   response.on('error', console.error)  
+// var http = require('http')
+//
+// http.get(process.argv[2], function (response) {
+//   response.setEncoding('utf8')
+//   response.on('data', console.log)
+//   response.on('error', console.error)
 // })
 
 // ~ Comments ~
