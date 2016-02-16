@@ -3,7 +3,8 @@
   "description": "Solution for HTTP COLLECT.",
   "author": "Alex Baker <hello@alexbaker.io>",
   "dependencies": {
-    "bl": "^1.1.2"
+    "bl": "^1.1.2",
+    "strftime": "^0.9.2"
   },
   "license": "MIT"
 }
