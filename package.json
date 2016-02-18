@@ -4,7 +4,8 @@
   "author": "Alex Baker <hello@alexbaker.io>",
   "dependencies": {
     "bl": "^1.1.2",
-    "strftime": "^0.9.2"
+    "strftime": "^0.9.2",
+    "through2-map": "^2.0.0"
   },
   "license": "MIT"
 }
